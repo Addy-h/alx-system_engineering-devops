@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
+=======
+file /tmp/iamafile
+>>>>>>> ff9a38650309104d1846d282a00107e527ef8fe4
 cp -nu *.html ..
